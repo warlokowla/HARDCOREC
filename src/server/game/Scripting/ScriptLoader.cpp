@@ -1264,7 +1264,7 @@ void AddCustomScripts()
 	AddSC_maestro_profesiones();
 	AddSC_Morph_npc();
 	AddSC_cs_world_chat();
-	AddSC_TitleNpc();
+	//  AddSC_TitleNpc();
 	//  AddSC_customized_ability_system();
 #endif
 }
