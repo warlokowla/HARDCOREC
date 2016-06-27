@@ -1,2 +1,3 @@
-# SunWellCore
-This is lite distribution of SunWellCore. (Sunwell.pl)
+# HARDCORE
+CREDITS TO SUNWELL.PL
+this core  is a modified version of sunwellcore, added news scripts and various custom scripts 
